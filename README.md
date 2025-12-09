@@ -1,1 +1,1 @@
-# model-explorer-ie
+# Model Explorer
